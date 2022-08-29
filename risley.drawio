@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-29T07:07:17.940Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="WRhPFktZAFewT71KDKkD" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-29T07:16:31.205Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="GFdlvf55p84bbfCgCG4b" version="20.2.7" type="github">
   <diagram id="E9MvIbREFryEpwZpblNl" name="第 1 页">
-    <mxGraphModel dx="191" dy="132" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="833" dy="575" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -51,12 +51,6 @@
             <mxPoint x="489" y="198.38" as="sourcePoint" />
             <mxPoint x="490" y="139.38" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="FLT7gCXpaoDRiRNvlhls-50" value="棱镜形状误差" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=6;fontColor=#000000;fontFamily=微软雅黑;" parent="1" vertex="1">
-          <mxGeometry x="189" y="283.75" width="90" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="FLT7gCXpaoDRiRNvlhls-51" value="轴承装配误差" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=6;fontColor=#000000;fontFamily=微软雅黑;" parent="1" vertex="1">
-          <mxGeometry x="401" y="283.75" width="90" height="26" as="geometry" />
         </mxCell>
         <mxCell id="FLT7gCXpaoDRiRNvlhls-52" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=90;size=28;rounded=0;fillColor=#A9C4EB;" parent="1" vertex="1">
           <mxGeometry x="155" y="555" width="130" height="40" as="geometry" />
@@ -313,8 +307,53 @@
         <mxCell id="FLT7gCXpaoDRiRNvlhls-45" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#FF0000;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="258" y="390.84" as="sourcePoint" />
-            <mxPoint x="360" y="391" as="targetPoint" />
+            <mxPoint x="357" y="391" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="EjsXjk1iRoXSMkVuqYEu-38" value="" style="endArrow=none;dashed=1;html=1;rounded=0;startSize=6;strokeColor=#0000FF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="306" y="324" as="sourcePoint" />
+            <mxPoint x="306" y="375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EjsXjk1iRoXSMkVuqYEu-39" value="棱镜安装误差" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=6;fontColor=#000000;fontFamily=微软雅黑;" vertex="1" parent="1">
+          <mxGeometry x="212" y="462" width="91" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="EjsXjk1iRoXSMkVuqYEu-40" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="416" y="390.5799999999999" as="sourcePoint" />
+            <mxPoint x="593" y="391" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EjsXjk1iRoXSMkVuqYEu-41" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/font-awesome/1792/rotate-left-128.png;rounded=0;imageBackground=none;imageBorder=none;fontColor=#000000;perimeterSpacing=0;noLabel=0;direction=east;metaEdit=0;backgroundOutline=0;rotation=-15;" vertex="1" parent="1">
+          <mxGeometry x="570.91" y="373" width="23.63" height="23.63" as="geometry" />
+        </mxCell>
+        <mxCell id="EjsXjk1iRoXSMkVuqYEu-42" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=90;size=28;rounded=0;fillColor=#A9C4EB;" vertex="1" parent="1">
+          <mxGeometry x="403" y="371" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EjsXjk1iRoXSMkVuqYEu-43" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=85;size=28;flipH=0;flipV=1;rounded=0;fillColor=#A9C4EB;" vertex="1" parent="1">
+          <mxGeometry x="474.79999999999995" y="371.21000000000004" width="130.18" height="39.59" as="geometry" />
+        </mxCell>
+        <mxCell id="EjsXjk1iRoXSMkVuqYEu-44" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;curved=1;fillColor=#f8cecc;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="488" y="396.97" as="sourcePoint" />
+            <mxPoint x="608" y="384" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EjsXjk1iRoXSMkVuqYEu-45" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="506" y="390.8399999999999" as="sourcePoint" />
+            <mxPoint x="605" y="391" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EjsXjk1iRoXSMkVuqYEu-46" value="" style="endArrow=none;dashed=1;html=1;rounded=0;startSize=6;strokeColor=#0000FF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="554" y="324" as="sourcePoint" />
+            <mxPoint x="554" y="375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EjsXjk1iRoXSMkVuqYEu-48" value="轴承装配误差" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=6;fontColor=#000000;fontFamily=微软雅黑;" vertex="1" parent="1">
+          <mxGeometry x="462" y="462" width="90" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
