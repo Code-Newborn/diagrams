@@ -1,74 +1,62 @@
-<mxfile host="app.diagrams.net" modified="2022-08-29T06:46:39.578Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="1oLns7YEiAGk-U4E2UHC" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-29T07:07:17.940Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="WRhPFktZAFewT71KDKkD" version="20.2.7" type="github">
   <diagram id="E9MvIbREFryEpwZpblNl" name="第 1 页">
-    <mxGraphModel dx="133" dy="92" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="191" dy="132" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="FLT7gCXpaoDRiRNvlhls-1" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=90;size=32;rounded=0;fillColor=#A9C4EB;" parent="1" vertex="1">
-          <mxGeometry x="154.38" y="355.63" width="137.5" height="46.25" as="geometry" />
+          <mxGeometry x="132.38" y="186.38" width="137.5" height="46.25" as="geometry" />
         </mxCell>
         <mxCell id="FLT7gCXpaoDRiRNvlhls-7" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=85;size=32;flipH=0;flipV=1;rounded=0;fillColor=#A9C4EB;" parent="1" vertex="1">
-          <mxGeometry x="221.36" y="355.21" width="135.68" height="45.19" as="geometry" />
+          <mxGeometry x="199.36" y="185.95999999999998" width="135.68" height="45.19" as="geometry" />
         </mxCell>
         <mxCell id="FLT7gCXpaoDRiRNvlhls-10" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="184" y="379" as="sourcePoint" />
-            <mxPoint x="361" y="379" as="targetPoint" />
+            <mxPoint x="168" y="390.58000000000004" as="sourcePoint" />
+            <mxPoint x="345" y="391" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FLT7gCXpaoDRiRNvlhls-18" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/font-awesome/1792/rotate-left-128.png;rounded=0;imageBackground=none;imageBorder=none;fontColor=#000000;perimeterSpacing=0;noLabel=0;direction=east;metaEdit=0;backgroundOutline=0;" parent="1" vertex="1">
-          <mxGeometry x="333.87" y="366.94" width="23.63" height="23.63" as="geometry" />
+          <mxGeometry x="324" y="379.19" width="23.63" height="23.63" as="geometry" />
         </mxCell>
         <mxCell id="FLT7gCXpaoDRiRNvlhls-21" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=90;size=32;rounded=0;fillColor=#A9C4EB;" parent="1" vertex="1">
-          <mxGeometry x="360.38" y="355.63" width="137.5" height="46.25" as="geometry" />
+          <mxGeometry x="338.38" y="186.38" width="137.5" height="46.25" as="geometry" />
         </mxCell>
         <mxCell id="FLT7gCXpaoDRiRNvlhls-22" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=85;size=32;flipH=0;flipV=1;rounded=0;fillColor=#A9C4EB;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="426" y="355.63" width="137.5" height="46.25" as="geometry" />
+          <mxGeometry x="404" y="186.38" width="137.5" height="46.25" as="geometry" />
         </mxCell>
         <mxCell id="FLT7gCXpaoDRiRNvlhls-23" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="389" y="378" as="sourcePoint" />
-            <mxPoint x="580" y="379" as="targetPoint" />
+            <mxPoint x="367" y="208.75" as="sourcePoint" />
+            <mxPoint x="558" y="209.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FLT7gCXpaoDRiRNvlhls-24" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/font-awesome/1792/rotate-left-128.png;rounded=0;rotation=-5;" parent="1" vertex="1">
-          <mxGeometry x="545" y="358.63" width="23.63" height="23.63" as="geometry" />
+          <mxGeometry x="523" y="189.38" width="23.63" height="23.63" as="geometry" />
         </mxCell>
         <mxCell id="FLT7gCXpaoDRiRNvlhls-26" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;curved=1;fillColor=#f8cecc;strokeColor=#FF0000;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="469" y="380.63" as="sourcePoint" />
-            <mxPoint x="583" y="368.6831733100187" as="targetPoint" />
+            <mxPoint x="447" y="211.38" as="sourcePoint" />
+            <mxPoint x="561" y="199.43317331001867" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FLT7gCXpaoDRiRNvlhls-28" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;curved=1;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeColor=#0000FF;" parent="1" target="FLT7gCXpaoDRiRNvlhls-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="306" y="371" as="sourcePoint" />
-            <mxPoint x="305" y="308" as="targetPoint" />
+            <mxPoint x="284" y="201.75" as="sourcePoint" />
+            <mxPoint x="283" y="138.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FLT7gCXpaoDRiRNvlhls-29" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;curved=1;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeColor=#0000FF;" parent="1" target="FLT7gCXpaoDRiRNvlhls-22" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="511" y="367.63" as="sourcePoint" />
-            <mxPoint x="512" y="308.63" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FLT7gCXpaoDRiRNvlhls-45" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#FF0000;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="263" y="378.67" as="sourcePoint" />
-            <mxPoint x="364" y="379" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FLT7gCXpaoDRiRNvlhls-49" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;curved=1;fillColor=#f8cecc;strokeColor=#000000;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="249" y="382.26" as="sourcePoint" />
-            <mxPoint x="363" y="370.31317331001867" as="targetPoint" />
+            <mxPoint x="489" y="198.38" as="sourcePoint" />
+            <mxPoint x="490" y="139.38" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FLT7gCXpaoDRiRNvlhls-50" value="棱镜形状误差" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=6;fontColor=#000000;fontFamily=微软雅黑;" parent="1" vertex="1">
-          <mxGeometry x="211" y="453" width="90" height="26" as="geometry" />
+          <mxGeometry x="189" y="283.75" width="90" height="26" as="geometry" />
         </mxCell>
         <mxCell id="FLT7gCXpaoDRiRNvlhls-51" value="轴承装配误差" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=6;fontColor=#000000;fontFamily=微软雅黑;" parent="1" vertex="1">
-          <mxGeometry x="423" y="453" width="90" height="26" as="geometry" />
+          <mxGeometry x="401" y="283.75" width="90" height="26" as="geometry" />
         </mxCell>
         <mxCell id="FLT7gCXpaoDRiRNvlhls-52" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=90;size=28;rounded=0;fillColor=#A9C4EB;" parent="1" vertex="1">
           <mxGeometry x="155" y="555" width="130" height="40" as="geometry" />
@@ -227,10 +215,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EjsXjk1iRoXSMkVuqYEu-9" value="入射点位置误差" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=6;fontColor=#000000;fontFamily=微软雅黑;" vertex="1" parent="1">
-          <mxGeometry x="172.13" y="646" width="103" height="27" as="geometry" />
+          <mxGeometry x="204.13" y="646" width="103" height="27" as="geometry" />
         </mxCell>
         <mxCell id="EjsXjk1iRoXSMkVuqYEu-10" value="入射光线姿态误差" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=6;fontColor=#000000;fontFamily=微软雅黑;" vertex="1" parent="1">
-          <mxGeometry x="411" y="646" width="115" height="27" as="geometry" />
+          <mxGeometry x="446" y="646" width="115" height="27" as="geometry" />
         </mxCell>
         <mxCell id="EjsXjk1iRoXSMkVuqYEu-11" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=90;size=28;flipH=0;flipV=1;rounded=0;fillColor=#A9C4EB;" vertex="1" parent="1">
           <mxGeometry x="226.8" y="555.21" width="130.18" height="39.59" as="geometry" />
@@ -308,6 +296,24 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="559.005" y="573.00432" as="sourcePoint" />
             <mxPoint x="611" y="583" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EjsXjk1iRoXSMkVuqYEu-32" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=90;size=28;rounded=0;fillColor=#A9C4EB;" vertex="1" parent="1">
+          <mxGeometry x="155" y="371" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EjsXjk1iRoXSMkVuqYEu-33" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=85;size=28;flipH=0;flipV=1;rounded=0;fillColor=#A9C4EB;" vertex="1" parent="1">
+          <mxGeometry x="226.79999999999995" y="371.21000000000004" width="130.18" height="39.59" as="geometry" />
+        </mxCell>
+        <mxCell id="FLT7gCXpaoDRiRNvlhls-49" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;curved=1;fillColor=#f8cecc;strokeColor=#000000;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="396.97" as="sourcePoint" />
+            <mxPoint x="360" y="384" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FLT7gCXpaoDRiRNvlhls-45" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#FF0000;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="258" y="390.84" as="sourcePoint" />
+            <mxPoint x="360" y="391" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
