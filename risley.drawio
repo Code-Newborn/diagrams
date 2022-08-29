@@ -1,15 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2022-08-29T07:16:31.205Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="GFdlvf55p84bbfCgCG4b" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-29T13:19:47.747Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="dNIv5WmBcBI5bcm7QNRp" version="20.2.7" type="github">
   <diagram id="E9MvIbREFryEpwZpblNl" name="第 1 页">
     <mxGraphModel dx="833" dy="575" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FLT7gCXpaoDRiRNvlhls-1" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=90;size=32;rounded=0;fillColor=#A9C4EB;" parent="1" vertex="1">
-          <mxGeometry x="132.38" y="186.38" width="137.5" height="46.25" as="geometry" />
-        </mxCell>
-        <mxCell id="FLT7gCXpaoDRiRNvlhls-7" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=85;size=32;flipH=0;flipV=1;rounded=0;fillColor=#A9C4EB;" parent="1" vertex="1">
-          <mxGeometry x="199.36" y="185.95999999999998" width="135.68" height="45.19" as="geometry" />
-        </mxCell>
         <mxCell id="FLT7gCXpaoDRiRNvlhls-10" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="168" y="390.58000000000004" as="sourcePoint" />
@@ -18,39 +12,6 @@
         </mxCell>
         <mxCell id="FLT7gCXpaoDRiRNvlhls-18" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/font-awesome/1792/rotate-left-128.png;rounded=0;imageBackground=none;imageBorder=none;fontColor=#000000;perimeterSpacing=0;noLabel=0;direction=east;metaEdit=0;backgroundOutline=0;" parent="1" vertex="1">
           <mxGeometry x="324" y="379.19" width="23.63" height="23.63" as="geometry" />
-        </mxCell>
-        <mxCell id="FLT7gCXpaoDRiRNvlhls-21" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=90;size=32;rounded=0;fillColor=#A9C4EB;" parent="1" vertex="1">
-          <mxGeometry x="338.38" y="186.38" width="137.5" height="46.25" as="geometry" />
-        </mxCell>
-        <mxCell id="FLT7gCXpaoDRiRNvlhls-22" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=85;size=32;flipH=0;flipV=1;rounded=0;fillColor=#A9C4EB;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="404" y="186.38" width="137.5" height="46.25" as="geometry" />
-        </mxCell>
-        <mxCell id="FLT7gCXpaoDRiRNvlhls-23" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="367" y="208.75" as="sourcePoint" />
-            <mxPoint x="558" y="209.75" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FLT7gCXpaoDRiRNvlhls-24" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/font-awesome/1792/rotate-left-128.png;rounded=0;rotation=-5;" parent="1" vertex="1">
-          <mxGeometry x="523" y="189.38" width="23.63" height="23.63" as="geometry" />
-        </mxCell>
-        <mxCell id="FLT7gCXpaoDRiRNvlhls-26" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;curved=1;fillColor=#f8cecc;strokeColor=#FF0000;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="447" y="211.38" as="sourcePoint" />
-            <mxPoint x="561" y="199.43317331001867" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FLT7gCXpaoDRiRNvlhls-28" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;curved=1;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeColor=#0000FF;" parent="1" target="FLT7gCXpaoDRiRNvlhls-7" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="284" y="201.75" as="sourcePoint" />
-            <mxPoint x="283" y="138.75" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FLT7gCXpaoDRiRNvlhls-29" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;curved=1;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeColor=#0000FF;" parent="1" target="FLT7gCXpaoDRiRNvlhls-22" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="489" y="198.38" as="sourcePoint" />
-            <mxPoint x="490" y="139.38" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="FLT7gCXpaoDRiRNvlhls-52" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=90;size=28;rounded=0;fillColor=#A9C4EB;" parent="1" vertex="1">
           <mxGeometry x="155" y="555" width="130" height="40" as="geometry" />
@@ -354,6 +315,12 @@
         </mxCell>
         <mxCell id="EjsXjk1iRoXSMkVuqYEu-48" value="轴承装配误差" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=6;fontColor=#000000;fontFamily=微软雅黑;" vertex="1" parent="1">
           <mxGeometry x="462" y="462" width="90" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EjsXjk1iRoXSMkVuqYEu-49" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=90;size=28;rounded=0;fillColor=#A9C4EB;" vertex="1" parent="1">
+          <mxGeometry x="155" y="739" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EjsXjk1iRoXSMkVuqYEu-50" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=90;size=28;rounded=0;fillColor=#A9C4EB;" vertex="1" parent="1">
+          <mxGeometry x="227" y="739" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
