@@ -1,20 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2022-08-30T12:19:48.011Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="Bfsx7dd8sVVO0Rh1XKGV" version="20.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-30T12:21:49.050Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="yktXKN8qTAFjH24NndUP" version="20.2.7" type="github" pages="2">
   <diagram id="kPWaynz6aoJH5VI-K3gA" name="第 1 页">
-    <mxGraphModel dx="574" dy="397" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="833" dy="575" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ETjB2wZACqDURuIevtS6-14" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.or;strokeColor=default;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="440" y="244" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ETjB2wZACqDURuIevtS6-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="ETjB2wZACqDURuIevtS6-1" target="ETjB2wZACqDURuIevtS6-4">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ETjB2wZACqDURuIevtS6-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ETjB2wZACqDURuIevtS6-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="175" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="275" y="175" />
+              <mxPoint x="275" y="175" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ETjB2wZACqDURuIevtS6-1" value="编码器位置反馈" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="140" y="161" width="120" height="30" as="geometry" />
+          <mxGeometry x="140" y="155" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ETjB2wZACqDURuIevtS6-3" value="相机脱靶量" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="140" y="249" width="120" height="30" as="geometry" />
+          <mxGeometry x="140" y="245" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ETjB2wZACqDURuIevtS6-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="ETjB2wZACqDURuIevtS6-4" target="ETjB2wZACqDURuIevtS6-14">
           <mxGeometry relative="1" as="geometry">
@@ -22,7 +28,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ETjB2wZACqDURuIevtS6-4" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="290" y="146" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="145" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ETjB2wZACqDURuIevtS6-8" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -123,7 +129,7 @@
         <mxCell id="ETjB2wZACqDURuIevtS6-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/user-interface-169/32/plus-128.png;strokeColor=default;" vertex="1" parent="ETjB2wZACqDURuIevtS6-63">
           <mxGeometry y="10" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ETjB2wZACqDURuIevtS6-24" value="" style="shape=table;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontFamily=微软雅黑;fontSize=16;strokeColor=default;html=1;" vertex="1" parent="1">
+        <mxCell id="ETjB2wZACqDURuIevtS6-24" value="" style="shape=table;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontFamily=微软雅黑;fontSize=16;strokeColor=default;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="136" y="319.99533980582527" width="132.42718446601944" height="90.72815533980582" as="geometry" />
         </mxCell>
         <mxCell id="ETjB2wZACqDURuIevtS6-25" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Times New Roman;fontSize=23;strokeColor=default;" vertex="1" parent="ETjB2wZACqDURuIevtS6-24">
