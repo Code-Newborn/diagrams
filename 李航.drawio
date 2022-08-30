@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-30T12:51:31.650Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="e2zD55UppYWDUX2C0Mv-" version="20.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-30T12:52:12.385Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="yHxaNTBhC1UGzdxKPAfk" version="20.2.7" type="github" pages="2">
   <diagram id="kPWaynz6aoJH5VI-K3gA" name="第 1 页">
     <mxGraphModel dx="833" dy="575" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
@@ -184,7 +184,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="sKNVliwVskS0EIgR3bHg" name="第 2 页">
-    <mxGraphModel dx="724" dy="500" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1282" dy="885" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -320,10 +320,10 @@
         <mxCell id="50w2XKnzX7Hpg0B45YHJ-3" value="\[\frac{1}{S}\]" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=23;strokeColor=default;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="689" y="740" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="50w2XKnzX7Hpg0B45YHJ-11" value="速度前馈" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;labelBackgroundColor=none;sketch=0;fontFamily=微软雅黑;fontSize=24;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="50w2XKnzX7Hpg0B45YHJ-11" value="速度前馈" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;labelBackgroundColor=none;sketch=0;fontFamily=微软雅黑;fontSize=24;rotation=-90;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="544" y="410" width="115" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="50w2XKnzX7Hpg0B45YHJ-15" value="伺服控制环" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;labelBackgroundColor=none;sketch=0;fontFamily=微软雅黑;fontSize=24;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="50w2XKnzX7Hpg0B45YHJ-15" value="伺服控制环" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;labelBackgroundColor=none;sketch=0;fontFamily=微软雅黑;fontSize=24;rotation=-90;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="480" y="565" width="140" height="45" as="geometry" />
         </mxCell>
       </root>
