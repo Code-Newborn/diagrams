@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-30T12:11:07.242Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="qIkdVNdeB8DtBXuq0RVZ" version="20.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-30T12:11:47.094Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="-JAW7nzB8beayuniH9Pg" version="20.2.7" type="github" pages="2">
   <diagram id="kPWaynz6aoJH5VI-K3gA" name="第 1 页">
-    <mxGraphModel dx="752" dy="492" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="933" dy="610" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,11 +10,11 @@
         <mxCell id="ETjB2wZACqDURuIevtS6-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="ETjB2wZACqDURuIevtS6-1" target="ETjB2wZACqDURuIevtS6-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ETjB2wZACqDURuIevtS6-1" value="编码器位置反馈" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="160" y="161" width="100" height="30" as="geometry" />
+        <mxCell id="ETjB2wZACqDURuIevtS6-1" value="编码器位置反馈" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="140" y="161" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ETjB2wZACqDURuIevtS6-3" value="相机脱靶量" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="160" y="249" width="100" height="30" as="geometry" />
+        <mxCell id="ETjB2wZACqDURuIevtS6-3" value="相机脱靶量" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="140" y="249" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ETjB2wZACqDURuIevtS6-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="ETjB2wZACqDURuIevtS6-4" target="ETjB2wZACqDURuIevtS6-14">
           <mxGeometry relative="1" as="geometry">
@@ -86,11 +86,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ETjB2wZACqDURuIevtS6-19" value="编码器数据延迟" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontFamily=微软雅黑;" vertex="1" parent="1">
-          <mxGeometry x="298.5" y="137" width="103" height="27" as="geometry" />
+        <mxCell id="ETjB2wZACqDURuIevtS6-19" value="编码器数据延迟" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontFamily=微软雅黑;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="297.5" y="136" width="105" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ETjB2wZACqDURuIevtS6-21" value="图像数据延迟" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontFamily=微软雅黑;" vertex="1" parent="1">
-          <mxGeometry x="303" y="222" width="91" height="27" as="geometry" />
+        <mxCell id="ETjB2wZACqDURuIevtS6-21" value="图像数据延迟" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontFamily=微软雅黑;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="301" y="221" width="95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ETjB2wZACqDURuIevtS6-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=微软雅黑;fontSize=23;strokeWidth=2;" edge="1" parent="1" source="ETjB2wZACqDURuIevtS6-22" target="ETjB2wZACqDURuIevtS6-42">
           <mxGeometry relative="1" as="geometry" />
