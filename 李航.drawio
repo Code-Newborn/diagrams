@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-31T14:25:46.090Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="FkKp2_3goP32N3G18cPb" version="20.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-02T01:43:57.364Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="9mVKXK-K2DKIe-lT7JPK" version="20.2.7" type="github" pages="2">
   <diagram id="kPWaynz6aoJH5VI-K3gA" name="第 1 页">
-    <mxGraphModel dx="2002" dy="575" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="2120" dy="1438" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -179,9 +179,6 @@
         </mxCell>
         <mxCell id="ETjB2wZACqDURuIevtS6-52" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;\[x\]&lt;/font&gt;&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontFamily=微软雅黑;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="202" y="310" width="59" height="41" as="geometry" />
-        </mxCell>
-        <mxCell id="Aoob5qyYEOtFvgCkkKrl-3" value="$$&lt;br&gt;\begin{aligned}&lt;br&gt;&amp;amp;\hat{\mathbf{X}}(k \mid k-1)=\sum_{j=1}^{3} \hat{X}_{j}(k \mid k-1) \mu_{j}(k \mid k-1) \\&lt;br&gt;&amp;amp;\hat{\boldsymbol{P}}(k \mid k-1)=\sum_{j}\left\{\boldsymbol{P}_{j}(k \mid k-1)+\left[\hat{\boldsymbol{X}}_{j}(k \mid k-1)-\right.\right. \\&lt;br&gt;&amp;amp;\left.\hat{\mathbf{X}}(k \mid k-1)] \cdot\left[\hat{\boldsymbol{X}}_{j}(k \mid k-1)-\hat{\boldsymbol{X}}(k \mid k-1)\right]^{\mathrm{T}}\right\}&lt;br&gt;\end{aligned}&lt;br&gt;$$" style="text;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-85" y="513" width="745" height="115" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
